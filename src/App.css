@@ -1,0 +1,8 @@
+.app
+{
+  background-color: white;
+  max-height: 100vh;
+  width: 375px;
+  height: 812px;
+  overflow:scroll;
+}
